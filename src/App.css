@@ -5,10 +5,6 @@
   background: linear-gradient(90deg, #582CD8 0%, #1c39e5 100%) fixed;
 }
 
-#root {
-  height: 100vh;
-
-}
 li {
   list-style: none;
 }
@@ -89,6 +85,7 @@ a {
   color: #fff;
   padding: 0;
   margin: 5em auto;
+  margin-bottom: 0;
   font-family: monospace;
 }
 .main h1 {
