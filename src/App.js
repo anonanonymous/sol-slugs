@@ -46,9 +46,6 @@ function App() {
 
       <div>
       </div>
-      <div className="footer">
-        2021 Sol Slugs
-      </div>
     </div>
   );
 }
