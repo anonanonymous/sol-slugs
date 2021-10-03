@@ -1,4 +1,6 @@
 import logo from './SolSlugsLogo.svg';
+import twitterLogo from './twitter.svg';
+import discordLogo from './discord.svg';
 import './App.css';
 
 function App() {
@@ -35,8 +37,8 @@ function App() {
           </li>
         </ul>
 
-        <a href="https://twitter.com/SolSlugsNFT">Twitter</a> <br />
-        <a href="https://discord.gg/zqdrguPfUa">Discord</a>
+        <a href="https://twitter.com/SolSlugsNFT"><img src={twitterLogo}></img> Twitter</a> <br />
+        <a href="https://discord.gg/zqdrguPfUa"><img src={discordLogo}></img> Discord</a>
         
         <div className='mint' id='mint'>
           <h2>Mint</h2>

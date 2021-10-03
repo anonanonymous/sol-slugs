@@ -2,7 +2,7 @@
   text-align: center;
   min-height: 100vh;
   background: rgb(0,0,0);
-  background: linear-gradient(90deg, #582CD8 0%, #1c39e5 100%) fixed;
+  background: linear-gradient(90deg, #2b098c 0%,  #582CD8 100%) fixed
 }
 
 li {
@@ -21,7 +21,6 @@ ul {
   width: 100vw;
   color: white;
   position: fixed;
-  height: 1.5em;
   z-index: 1;
 }
 
